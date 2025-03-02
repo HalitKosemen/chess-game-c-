@@ -1,0 +1,21 @@
+﻿  deneme_23.cpp
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(98,46): warning C4305: '=': 'int' iken 'char' olarak kesildi
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(98,46): warning C4309: '=': sabit değer kesildi
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(163,103): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(174,103): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(187,103): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(198,103): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(230,102): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(267,101): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(300,106): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(314,106): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(523,74): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(534,74): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(559,73): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(596,72): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(650,74): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(661,74): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(724,73): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(765,72): warning C4805: '!=' : işlemde güvenli olmayan 'bool' türü ve 'int' türü karışımı
+C:\Users\Halit\Desktop\project_ches\deneme_1\deneme_23.cpp(1212,1): warning C4715: 'sira_kimde_ve_oynayan_kisi_dogru_oynuyor_mu': tüm denetim yolları değer döndürmez
+  deneme_1.vcxproj -> C:\Users\Halit\Desktop\project_ches\deneme_1\x64\Debug\deneme_1.exe
